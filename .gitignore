@@ -1,0 +1,5 @@
+# Exclude all .dta files
+*.dta
+
+# Exclude all .csv files
+*.csv
