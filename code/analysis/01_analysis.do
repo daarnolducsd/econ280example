@@ -83,7 +83,7 @@ sum ror_gap
 
 hist ror_gap, ///
 	color(sea%40) ///
-	title("Release on Recognizance (ROR) Rate Disparities") ///
+	title("ROR Black-White Disparities") ///
 	xtitle("ROR Disparity (Black-White)") ///
 	ylabel(0(2)10, nogrid) ///
 	xlabel(-0.3(0.1)0.2, nogrid) ///
